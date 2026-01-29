@@ -1,0 +1,26 @@
+﻿store_id,store_name,city,region,store_size,monthly_sales_goal,store_open_date
+1,Lake Nona South,Lake Nona,Central,Small,170253,8/15/2023
+2,Downtown Cape Coral,Cape Coral,South,Large,355440,2/18/2022
+3,Estero South,Estero,South,Large,312048,2/21/2025
+4,Downtown Clermont,Clermont,Central,Large,359252,4/2/2022
+5,Fort Myers West,Fort Myers,South,Medium,226609,1/26/2019
+6,Tampa South,Tampa,North,Large,321219,1/13/2021
+7,Sanford,Orlando,Central,Large,308783,7/2/2023
+8,Downtown Lake Nona,Lake Nona,Central,Small,170566,8/25/2023
+9,Tampa North,Tampa,North,Small,165973,3/28/2022
+10,Altamonte,Altamonte Springs,Central,Large,352197,2/7/2025
+11,Sarasota West,Sarasota,South,Medium,279764,3/6/2025
+12,Bradenton South,Bradenton,South,Small,196868,3/25/2020
+13,Brandon West,Brandon,North,Medium,259191,12/11/2023
+14,Estero North,Estero,South,Small,170178,8/3/2021
+15,Bonita,Bonita Springs,South,Medium,271423,3/26/2022
+16,Nona,Lake Nona,Central,Large,337118,5/7/2019
+17,Kissimmee West,Kissimmee,Central,Small,156011,5/25/2025
+18,Downtown Clearwater,Clearwater,North,Large,342659,3/15/2023
+19,Orlando West,Orlando,Central,Large,382770,3/19/2025
+20,St. Pete,St. Petersburg,North,Medium,224273,6/27/2021
+21,Downtown Lakeland,Lakeland,Central,Small,166882,2/8/2022
+22,Orlando East,Orlando,Central,Medium,260118,3/9/2024
+23,Sarasota North,Sarasota,South,Small,178441,9/17/2020
+24,St. Pete North,St. Petersburg,North,Medium,282947,7/14/2024
+25,Downtown Tampa,Tampa,North,Small,161577,4/11/2024
